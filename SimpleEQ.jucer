@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="BiUz1c" name="SimpleEQ" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
+              defines="JUCE_DISPLAY_SPLASH_SCREEN=0">
   <MAINGROUP id="uNDbJS" name="SimpleEQ">
     <GROUP id="{C9906035-D83D-B034-4905-7B50C057D580}" name="Source">
       <FILE id="vQJURA" name="PluginProcessor.cpp" compile="1" resource="0"
